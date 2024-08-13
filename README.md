@@ -1,5 +1,5 @@
 # Early-Classifications-of-Diabetes-v2
-# Project Data Science- Early Classification of Diabetes 
+
 # Hashem Almubarak 
 
 # Problem description
